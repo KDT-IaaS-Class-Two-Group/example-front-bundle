@@ -1,0 +1,1 @@
+(()=>{"use strict";const t={testWork:t=>t,testVariable:""};t.testVariable=t.testWork("테스트"),console.log(t.testVariable)})();
